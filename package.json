@@ -2,7 +2,6 @@
   "name": "rama",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Rama49.github.io/prototyper/projet-react.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
