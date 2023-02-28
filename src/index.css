@@ -18,7 +18,7 @@ code {
 .centere{
   justify-content: center;
   position: absolute;
-  bottom: -800px; 
+  top: 500px; 
  }
  @media (max-width: 992px){
   .centere{
