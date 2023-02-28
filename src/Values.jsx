@@ -13,7 +13,7 @@ function Values() {
       </p>
       <div className="row mb-3">
         <div className="col-lg-2 col-md-3 col-sm-3">
-          <img src={imgval1} alt="photo" />
+          <img src={imgval1} />
         </div>
         <div className="col-lg-8 col-md-7 col-sm-7">
           <h1>We are commited</h1>
@@ -23,7 +23,7 @@ function Values() {
       </div>
       <div className="row mb-3">
         <div className="col-lg-2 col-md-3 col-sm-3">
-          <img src={imgval2} alt="photo" />
+          <img src={imgval2} />
         </div>
         <div className="col-lg-8 col-md-7 col-sm-7">
           <h1>We are responsive</h1>
@@ -33,7 +33,7 @@ function Values() {
       </div>
       <div className="row mb-3">
         <div className="col-lg-2 col-md-3 col-sm-3">
-          <img src={Image} alt="photo" />
+          <img src={Image} />
         </div>
         <div className="col-lg-8 col-md-7 col-sm-7">
           <h1>We aim for progress</h1>
