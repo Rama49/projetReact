@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/projet-react/static/css/main.a90fe275.css",
+    "main.js": "/projet-react/static/js/main.b9bf817d.js",
+    "static/media/Rect3.png": "/projet-react/static/media/Rect3.ebec64dce9f910580c3d.png",
+    "static/media/img3.png": "/projet-react/static/media/img3.95338b7c582d3ac7564e.png",
+    "static/media/Rect5.png": "/projet-react/static/media/Rect5.1e2370af0b950afa502d.png",
+    "static/media/img2.png": "/projet-react/static/media/img2.73b3fa7a83c4725241c8.png",
+    "static/media/Rect1.png": "/projet-react/static/media/Rect1.ef1e3bc1e91eb0398186.png",
+    "static/media/img1.png": "/projet-react/static/media/img1.182d14725391f24235ca.png",
+    "static/media/Rect2.png": "/projet-react/static/media/Rect2.597955c8f452adb640bb.png",
+    "static/media/Rect4.png": "/projet-react/static/media/Rect4.c36b3acc5e9cf60f1d4d.png",
+    "static/media/Image.png": "/projet-react/static/media/Image.89793b88de496697e8ef.png",
+    "index.html": "/projet-react/index.html",
+    "main.a90fe275.css.map": "/projet-react/static/css/main.a90fe275.css.map",
+    "main.b9bf817d.js.map": "/projet-react/static/js/main.b9bf817d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a90fe275.css",
+    "static/js/main.b9bf817d.js"
+  ]
+}
