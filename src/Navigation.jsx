@@ -9,24 +9,24 @@ function Navigation() {
         <Navbar.Brand href="#">
           <img src={Logo} />
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="navbarScroll" />
+        <Navbar.Toggle aria-controls="navbarScroll"/>
         <Navbar.Collapse id="navbarScroll" className="texte">
           <Nav
-            className="ml-5 my-2 my-lg-0 rigth"
+            className="ml-5 my-2 my-lg-0 float-left"
             style={{ maxHeight: "100px" }}
             navbarScroll
           >
-            <NavLink to="/Product" className="text-white px-5">
+            <NavLink to="/Product" className="text-white px-lg-5">
               Product
             </NavLink>
-            <NavLink to="/Svice" className="text-white">
-              Serviice
+            <NavLink to="/Svice" className="text-white px-lg-5">
+              Service
             </NavLink>
-            <NavLink to="/Footers" className="text-white px-5">
+            <NavLink to="/Footers" className="text-white px-lg-5">
               About
             </NavLink>
-            <NavLink to="#" disabled>
-              <button className="bg-white text-dark rounded  border-none px-5">
+            <NavLink to="#" disabled className="px-lg-5">
+              <button className="bg-white text-dark rounded  border-none">
                 Login
               </button>
             </NavLink>

@@ -15,11 +15,15 @@ code {
   background-color: #0A2640;
   padding-bottom: 100px;
 }
+.chrono{
+  background-color: #0A2640;
+  color: white;
+}
 .centere{
   justify-content: center;
   position: absolute;
   /* top: 300;px;  */
- } 
+ }
  @media (min-width: 892px) and (min-width: 896px){
   .centere{ 
     text-align: center;
