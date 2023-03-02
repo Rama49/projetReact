@@ -22,8 +22,8 @@ function Team() {
         <div className="col-lg-4 col-md-12 col-sm-12 mb-5">
           <img src={img2} alt="photo1" className="img-fluid imagee" />
         </div>
-        <div className="col-lg-3 col-md-12 col-sm-12 mb-5">
-          <img src={img3} alt="photo1" className="img-fluid imagee" />
+        <div className="col-lg-4 col-md-12 col-sm-12 mb-5">
+          <img src={img3} alt="photo1" className="img-fluid imagee"/>
         </div>
       </div>
     </div>
